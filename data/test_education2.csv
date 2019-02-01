@@ -1,0 +1,9 @@
+Case,Education,Skills,Experience,Productivity
+1,-,high,-,high
+2,?,high,low,high
+3,secondary,-,high,high
+4,higher,?,high,high
+5,elementary,high,low,low
+6,secondary,-,high,low
+7,-,low,high,low
+8,elementary,?,-,low
