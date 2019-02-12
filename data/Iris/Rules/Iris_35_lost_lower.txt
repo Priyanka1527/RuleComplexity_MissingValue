@@ -1,0 +1,3 @@
+['(petal_length,1.0..2.45) -> (class,Iris-setosa)', '(sepal_width,3.05..4.1) & (sepal_length,4.3..5.15) -> (class,Iris-setosa)', '(petal_width,0.1..0.25) & (sepal_length,4.85..7.9) -> (class,Iris-setosa)']
+['(petal_length,3.85..4.65) & (sepal_length,4.95..7.9) -> (class,Iris-versicolor)', '(petal_length,4.05..4.45) -> (class,Iris-versicolor)']
+['(petal_width,1.75..2.5) & (petal_length,4.85..6.7) -> (class,Iris-viginica)', '(sepal_width,2.2..3.15) & (petal_length,5.25..6.7) -> (class,Iris-viginica)']
