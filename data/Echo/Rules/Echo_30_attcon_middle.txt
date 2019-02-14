@@ -1,0 +1,2 @@
+['(Wall-index,1.04..1.33) & (LVDD,3.5..5.18) & (Wall-score,10.0..14.5) -> (Alive,0)', '(Wall-index,1.0..1.27) & (Age,46.0..59.5) -> (Alive,0)']
+['(Fractional,0.08..0.26) & (LVDD,5.05..5.48) & (Wall-index,1.39..2.21) & (Age,64.0..86.0) -> (Alive,1)', '(Fractional,0.0..0.32) & (Pericardial,0.5..1.0) & (Age,60.5..62.5) & (Fractional,0.08..0.5) & (Wall-index,1.0..1.5) & (LVDD,4.39..6.7) -> (Alive,1)', '(LVDD,3.5..3.55) -> (Alive,1)']
