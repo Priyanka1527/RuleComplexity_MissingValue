@@ -1,2 +1,4 @@
-['(Age,46.0..64.5) & (Wall-score,10.0..14.5) & (Wall-index,1.02..2.3) -> (Alive,0)', '(Wall-score,10.0..14.5) & (Age,46.0..66.73) & (LVDD,3.4..4.74) & (Age,62.5..86.0) -> (Alive,0)', '(Wall-index,1.0..1.02) & (Age,46.0..60.5) & (Wall-score,10.0..14.5) -> (Alive,0)']
-['(Fractional,0.0..0.26) & (Wall-score,10.0..33.5) & (Wall-index,1.39..2.21) & (Age,62.5..86.0) -> (Alive,1)', '(Wall-index,1.0..1.5) & (Age,59.5..86.0) & (Wall-index,1.37..2.3) & (Fractional,0.26..0.5) -> (Alive,1)', '(Fractional,0.0..0.03) -> (Alive,1)']
+['(Wall-score,10.75..39.0) & (Age,46.0..70.5) & (Fractional,0.155..0.51) & (Wall-score,5.0..15.585) & (EPSS,7.8..40.0) -> (Alive,0)', '(Fractional,0.205..0.51) & (EPSS,0.0..7.3) & (LVDD,3.94..6.73) -> (Alive,0)', '(LVDD,3.42..3.455) -> (Alive,0)']
+['(Age,60.5..86.0) & (EPSS,8.65..24.1) & (LVDD,4.43..6.73) & (Wall-score,9.5..39.0) & (Wall-index,1.41..2.275) -> (Alive,SPECIAL)', '(Age,85.5..86.0) -> (Alive,SPECIAL)']
+['(Age,60.5..86.0) & (EPSS,8.65..24.1) & (LVDD,4.43..6.73) & (Wall-score,9.5..39.0) & (Wall-index,1.41..2.275) -> (Alive,1)', '(Age,85.5..86.0) -> (Alive,1)']
+['(Wall-score,10.75..39.0) & (Age,46.0..70.5) & (Fractional,0.155..0.51) & (Wall-score,5.0..15.585) & (EPSS,7.8..40.0) -> (Alive,SPECIAL)', '(Fractional,0.205..0.51) & (EPSS,0.0..7.3) & (LVDD,3.94..6.73) -> (Alive,SPECIAL)', '(LVDD,3.42..3.455) -> (Alive,SPECIAL)']
