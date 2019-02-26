@@ -1,0 +1,8 @@
+['(aeight,two) & (anine,one) & (aseven,one) & (afour,one) & (aonesix,two) -> (class,three)']
+['(anine,one) & (aseven,one) & (aoneseven,two) & (aonethree,three) -> (class,SPECIAL)', '(afour,one) & (afive,one) & (anine,one) & (aoneeight,one) & (athree,one) -> (class,SPECIAL)', '(aone0,two) & (afive,one) & (atwo,two) -> (class,SPECIAL)', '(aeight,one) & (aeight,two) -> (class,SPECIAL)']
+['(anine,one) & (aseven,one) & (aoneseven,two) & (aonethree,three) -> (class,two)', '(afive,one) & (anine,one) & (aoneeight,one) & (athree,one) -> (class,two)', '(aone0,two) & (afive,one) & (atwo,two) -> (class,two)', '(aoneeight,one) & (aeight,one) & (aonefive,two) -> (class,two)']
+['(aeight,two) & (anine,one) & (afour,one) & (aseven,one) & (aonesix,two) -> (class,SPECIAL)']
+['(anine,three) -> (class,four)', '(afour,two) & (anine,two) -> (class,four)']
+['(afour,one) -> (class,SPECIAL)', '(anine,one) -> (class,SPECIAL)', '(aoneseven,two) & (afive,one) -> (class,SPECIAL)', '(aoneeight,one) -> (class,SPECIAL)', '(aonethree,four) -> (class,SPECIAL)']
+['(aone,one) -> (class,one)']
+['(anine,one) -> (class,SPECIAL)', '(aseven,one) & (aoneseven,two) -> (class,SPECIAL)', '(afive,one) & (aoneeight,one) -> (class,SPECIAL)', '(aseven,one) & (aonefive,three) -> (class,SPECIAL)', '(afive,one) & (aone,three) -> (class,SPECIAL)', '(aonefour,three) -> (class,SPECIAL)']
