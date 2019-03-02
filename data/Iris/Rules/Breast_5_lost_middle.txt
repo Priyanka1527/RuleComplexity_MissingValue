@@ -1,0 +1,4 @@
+['(a5,no) & (a9,no) & (a4,0-2) & (a6,1.0..2.5) & (a6,1.5..3.0) & (a7,left) & (a2,premeno) & (a7,right) -> (class,no-recurrence-events)']
+['(a6,1.5..3.0) & (a6,2.5..3.0) & (a9,no) & (a2,premeno) & (a5,no) & (a7,left) & (a5,yes) -> (class,SPECIAL)']
+['(a6,1.5..3.0) & (a2,premeno) & (a9,no) & (a5,no) & (a6,2.5..3.0) & (a7,left) & (a4,0-2) & (a6,1.0..2.5) -> (class,recurrence-events)']
+['(a5,no) & (a9,no) & (a4,0-2) & (a6,1.0..2.5) & (a6,1.5..3.0) & (a7,left) & (a7,right) -> (class,SPECIAL)']
