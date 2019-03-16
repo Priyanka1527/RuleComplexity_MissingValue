@@ -1,0 +1,2 @@
+['(a11,no) & (a6,no) & (a19,yes) -> (Class,no)', '(a10,no) & (a6,no) & (a1,38-78) & (a5,yes) -> (Class,no)']
+['(a8,no) & (a11,yes) & (a15,101.314-295) & (a16,14-101) & (a3,yes) -> (Class,yes)', '(a8,no) & (a11,yes) & (a14,1.7-8) & (a7,no) -> (Class,yes)', '(a12,yes) & (a14,1.7-8) & (a11,yes) -> (Class,yes)']

@@ -1,0 +1,4 @@
+['(a17,2.9-6.4) & (a12,no) & (a18,23-100) & (a13,no) & (a14,0.3-1.7) -> (Class,no)', '(a4,no) & (a17,2.9-6.4) & (a10,no) & (a12,no) & (a2,yes) -> (Class,no)', '(a4,no) & (a13,no) & (a12,no) & (a11,no) & (a10,no) & (a5,yes) -> (Class,no)', '(a5,no) & (a1,7-38) -> (Class,no)']
+['(a8,no) & (a11,yes) & (a16,14-101) & (a14,1.7-8) -> (Class,SPECIAL)']
+['(a8,no) & (a16,14-101) & (a7,no) & (a14,1.7-8) -> (Class,yes)']
+['(a10,no) & (a8,no) & (a6,no) & (a11,no) -> (Class,SPECIAL)', '(a14,0.3-1.7) & (a10,no) & (a11,yes) & (a15,101.314-295) -> (Class,SPECIAL)']

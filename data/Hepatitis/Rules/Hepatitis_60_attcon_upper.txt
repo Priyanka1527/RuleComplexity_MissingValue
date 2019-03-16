@@ -1,0 +1,3 @@
+['(a18,23-100) -> (Class,no)', '(a18,0-23) -> (Class,no)']
+['(a3,no) & (a5,yes) -> (Class,yes)', '(a4,no) & (a1,38-78) -> (Class,yes)', '(a17,2.1-2.9) & (a6,yes) -> (Class,yes)', '(a11,yes) & (a19,no) -> (Class,yes)']
+['(a2,no) & (a5,no) & (a15,101.314-295) & (a19,yes) & (a3,yes) & (a6,no) & (a3,no) & (a14,0.3-1.7) & (a6,yes) & (a11,yes) & (a14,1.7-8) & (a17,2.1-2.9) -> (Class,SPECIAL)']
