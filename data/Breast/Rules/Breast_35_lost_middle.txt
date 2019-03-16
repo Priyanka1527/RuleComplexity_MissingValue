@@ -1,0 +1,4 @@
+['(a9,no) & (a4,0-2) & (a6,2) -> (class,no-recurrence-events)', '(a7,left) & (a7,right) -> (class,no-recurrence-events)']
+['(a4,0-2) & (a9,yes) & (a5,yes) -> (class,SPECIAL)']
+['(a9,no) & (a5,yes) -> (class,recurrence-events)', '(a6,2) & (a6,3) -> (class,recurrence-events)']
+['(a4,0-2) & (a6,2) & (a7,left) -> (class,SPECIAL)', '(a4,0-2) & (a9,no) & (a7,right) & (a6,2) -> (class,SPECIAL)', '(a7,right) & (a9,no) & (a8,left_up) & (a2,premeno) -> (class,SPECIAL)', '(a4,0-2) & (a9,no) & (a2,ge40) -> (class,SPECIAL)', '(a7,right) & (a1,50-59) -> (class,SPECIAL)', '(a4,0-2) & (a5,no) & (a7,right) & (a1,40-49) -> (class,SPECIAL)', '(a7,right) & (a8,left_up) & (a1,60-69) -> (class,SPECIAL)']
