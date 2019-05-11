@@ -1,9 +1,0 @@
-Case,Wind,Humidity,Temperature,Trip
-1,4,low,medium,yes
-2,8,low,low,yes
-3,4,medium,medium,yes
-4,8,medium,high,maybe
-5,12,low,medium,maybe
-6,16,high,low,no
-7,30,high,high,no
-8,12,high,high,no
